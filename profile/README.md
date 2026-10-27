@@ -32,6 +32,10 @@ A rede editorial do ecossistema é composta por veículos com focos distintos:
 
 Os portais possuem conteúdo editorial próprio. Publicações sobre produtos do Grupo Ciatto devem informar o vínculo empresarial quando pertinente, sem se apresentar como avaliações independentes.
 
+## Publicidade e rede editorial
+
+Os canais de comunicação, os temas dos portais e a política de transparência estão reunidos no [Ciatto Media — Kit institucional](https://github.com/ciatto/.github/blob/main/MEDIA-KIT.md). Para propostas comerciais, consulte [Ciatto Publicidade](https://publicidade.ciatto.com.br/).
+
 ## Institucional e contato
 
 - [Site do Grupo Ciatto](https://ciatto.com.br/)
